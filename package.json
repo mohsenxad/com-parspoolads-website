@@ -4,7 +4,7 @@
   "description": "com-parspoolads-website",
   "main": "index.js",
   "scripts": {
-    "serve": "node serve.js",
+    "serve": "node src/serve.js",
     "build": "node index.js",
     "deploy": "node deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"

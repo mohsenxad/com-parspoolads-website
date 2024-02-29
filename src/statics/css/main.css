@@ -1,0 +1,25 @@
+@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://cdn.fecharge.ir/fonts/iranSans/IRANSansWeb(FaNum).woff2") format("woff2");
+}
+body {
+  font-family: IranSans;
+  direction: rtl;
+  margin: 0;
+  background-color: #F4F6F9;
+  padding: 16px 16px 24px 16px;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+details ul {
+  padding: 0px;
+}
+
+p {
+  text-align: justify;
+}/*# sourceMappingURL=main.css.map */

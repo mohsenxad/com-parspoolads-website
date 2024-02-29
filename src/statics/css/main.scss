@@ -1,0 +1,23 @@
+@import "fonts.scss";
+
+body {
+	font-family: IranSans;
+	direction: rtl;
+	margin: 0;
+	background-color: #F4F6F9;
+	padding: 16px 16px 24px 16px;
+	
+}
+
+ul,ol {
+	list-style: none;
+}
+
+details {
+	ul	{
+		padding: 0px;
+	}
+}
+p {
+	text-align: justify;
+}

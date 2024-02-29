@@ -34,7 +34,7 @@ const config = {
     password: PASSWORD,
     host: HOST,
     port: REMOTE_PORT,
-    localRoot: __dirname + "/www/",
+    localRoot: __dirname + "/src/",
     remoteRoot: REMOTE_ROOT,
     // include: ["*", "**/*"],      // this would upload everything except dot files
     include: ["*", "**/*"],
